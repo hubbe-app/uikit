@@ -17,6 +17,7 @@
 /node_modules
 /tests/js/test*
 /tests/css/*
+!/custom/displai-theme.less
 custom
 themes.json
 .DS_Store
